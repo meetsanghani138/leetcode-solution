@@ -11,7 +11,7 @@ question and answer with explanation
 git add .
 
 🔹 Step 7: Commit changes
-git commit -m "7 leetcode-solution"
+
 
 🔹 Step 8: Push to GitHub
 git push -u origin main
