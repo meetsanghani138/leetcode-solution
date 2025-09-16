@@ -28,8 +28,8 @@ class Solution {
             } else {
                 ans.append(s.charAt(i));
             }
-        }
-        
+        } 
         return ans.toString();
     }
 };
+
